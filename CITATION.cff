@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this magazine, please cite it as below."
+title: "MMALS Science Magazine v5 - English Edition"
+type: report
+authors:
+  - family-names: Harbonnier
+    given-names: Guillaume
+year: 2026
+version: 5.0.1-en
