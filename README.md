@@ -2,6 +2,12 @@
 
 An illustrated science magazine tracing MMALS from tree hosts and fungal mediation to functional memory, RC2O, Geometry-MMALS, TPUT, reinforcement learning, and governed adaptive control.
 
+<p align="center">
+  <a href="./docs/MMALS_Science_Magazine_v5_EN.pdf">
+    <img src="https://img.shields.io/badge/Open-Article-0B5FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open PDF">
+  </a>
+</p>
+
 ## Repository name
 
 `mmals-science-magazine`
